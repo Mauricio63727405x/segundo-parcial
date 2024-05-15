@@ -12,6 +12,9 @@
     width: 100px;
 }
 
+.line1{
+    text-decoration: underline;
+}
 .contenedor2 {
     display: flex;
     flex-direction: row;
@@ -56,13 +59,25 @@
 }
 .name_3 {
     background-color: aliceblue;
+    margin: 0;
 }
+.name_3 p {
+    margin: 0;
+    text-align: center;
+}
+
 .contenedor4 img {
     width: 300px;
 }
 
 .contenedor4 {
+    margin-top: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 20px;
+}
+
+.contenedor4 p {
+    margin: 0;
 }

@@ -24,7 +24,7 @@ import { CuerpoComponent } from './app/commons/cuerpo/cuerpo.component';
     AppComponent,
     HeaderComponent,
     FooterComponent,
-    MainComponent,
+    MainComponent,  
   
     NofoundComponent,
     BanerComponent,
