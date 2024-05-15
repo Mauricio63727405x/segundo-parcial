@@ -15,6 +15,7 @@ import { GeograficaComponent } from './pages/geografica/geografica.component';
 import { EjecutivoComponent } from './pages/ejecutivo/ejecutivo.component';
 import { EstructuraComponent } from './pages/estructura/estructura.component';
 import { DirectorioComponent } from './pages/directorio/directorio.component';
+import { CuerpoComponent } from './app/commons/cuerpo/cuerpo.component';
 
 
 
@@ -34,6 +35,7 @@ import { DirectorioComponent } from './pages/directorio/directorio.component';
     EjecutivoComponent,
     EstructuraComponent,
     DirectorioComponent,
+    CuerpoComponent,
     
   ],
   imports: [
